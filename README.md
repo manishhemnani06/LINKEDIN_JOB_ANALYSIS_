@@ -26,7 +26,7 @@ Visit here for streamlit U.I. 👉 - https://linkedin-job-analysis.streamlit.app
 <h2> 
   🥅Objective-
 </h2>
-- This project is for learning purposes. So, considering that got this task from a Reputated I.T. Learning Insitute to analysis the current job role for Data Analysis and Data Science. So, for that we scraped the data from Linkedin.
+- This project is for learning purposes. So, considering that got this task from a reputated I.T. Learning Insitute to analysis the current job role for Data Analysis and Data Science. So, for that we scraped the data from Linkedin.
 
 
 <h2> 
