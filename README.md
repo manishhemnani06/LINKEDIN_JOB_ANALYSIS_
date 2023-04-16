@@ -1,7 +1,7 @@
 <h1>
  📈LINKEDIN_JOB_ANALYSIS - 📑Brief Summary
 </h1>
-- Scraped data from linkedin.in using the Selenium library which around 4hrs.
+- Scraped data from linkedin.in using the Selenium library which took time around 4hrs.
 - Created EDA report on python using Matplotlib and Seaborn.
 - For dynamic dashboard used Tableau.
 - Created User interface using Streamlit library.
